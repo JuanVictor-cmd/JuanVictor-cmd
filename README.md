@@ -25,7 +25,7 @@ I'm Currently learning about Web.
     <a href = "https://www.linkedin.com/in/juan-victor-cmd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 
-  ![Snake animation](https://github.com/rafaballerini/JuanVictor-cmd/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ellen2121/JuanVictor-cmd/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 - 👯 I’m looking to collaborate on ...
