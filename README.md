@@ -1,9 +1,20 @@
 ### Olá Mundo! Eu sou o Juan 👋
+<h3 align="center">Olá Mundo! Eu sou o Juan 👋</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-victor-22736a230/">Linkedin</a>
+</p>
 
-Front-End Developer Student | Principal Language Javascript
+ <h4 align="center">Front-End Developer Student | Principal Language Javascript</h4>
 
-Languages: C, HTML, CSS, JavaScript, Python.
-I'm Currently learning about Web.
+  <h4 align="center">Linguagens: C, HTML, CSS, JavaScript, Python.</h4>
+  <h4 align="center">I'm Currently learning about Web.</h4>
+  <br>
+  
+- 🔭 No que estou trabalhando atualmente: [Portfólio](https://github.com/JuanVictor-cmd/Portfolio) - Meu primeiro portfólio
+- 🌱 Atualmente estou estudando: HTML e CSS
+- 📫 Contato: juanvictoralmeida.contato@gmail.com
+- ⚡ Um fato sobre mim: Comecei na área de TI para me tornar Hacker Ético e após estudar muito sobre isso, acabei decidindo virar desenvolvedor Front-End por amar Design 🤡
+- ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 <div>
   <a href="https://github.com/JuanVictor-cmd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanVictor-cmd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
