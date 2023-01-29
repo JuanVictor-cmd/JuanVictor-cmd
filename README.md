@@ -1,4 +1,4 @@
-### Olá Mundo! Eu sou o Juan 👋
+
 <h3 align="center">Olá Mundo! Eu sou o Juan 👋</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-victor-22736a230/">Linkedin</a>
