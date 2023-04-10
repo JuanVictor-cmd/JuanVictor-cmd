@@ -1,8 +1,10 @@
 
 <h3 align="center">Olá Mundo! Eu sou o Juan 👋</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-victor-22736a230/">Linkedin</a>
-  <a href="https://www.linkedin.com/in/juan-victor-22736a230/](https://www.behance.net/_juanvictor-cmd">Behance</a>
+  <div>
+    <a href = "mailto:juanvictoralmeida.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "https://www.linkedin.com/in/juan-victor-cmd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
 </p>
 
  <h4 align="center">Front-End Developer Student | Principal Language Javascript</h4>
