@@ -2,6 +2,7 @@
 <h3 align="center">Olá Mundo! Eu sou o Juan 👋</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-victor-22736a230/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/juan-victor-22736a230/](https://www.behance.net/_juanvictor-cmd">Behance</a>
 </p>
 
  <h4 align="center">Front-End Developer Student | Principal Language Javascript</h4>
