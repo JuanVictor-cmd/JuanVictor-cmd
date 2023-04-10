@@ -40,6 +40,7 @@
  <div>
     <a href = "mailto:juanvictoralmeida.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://www.linkedin.com/in/juan-victor-cmd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href = "https://www.behance.net/_juanvictor-cmd" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
  </div>
   
   ![snake gif](https://github.com/JuanVictor-cmd/JuanVictor-cmd/blob/output/github-contribution-grid-snake.svg)
