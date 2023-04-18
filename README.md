@@ -12,7 +12,7 @@
   <h4 align="center">I'm Currently learning about Web.</h4>
   <br>
   
-- 🔭 No que estou trabalhando atualmente: [Portfólio](https://github.com/JuanVictor-cmd/Portfolio) - Meu primeiro portfólio
+- 🔭 No que estou trabalhando atualmente: [Portfólio](https://github.com/JuanVictor-cmd/Portfolio) - Portfólio Mark 2
 - 🌱 Atualmente estou estudando: HTML e CSS
 - 📫 Contato: juanvictoralmeida.contato@gmail.com
 - ⚡ Um fato sobre mim: Comecei na área de TI para me tornar Hacker Ético e após estudar muito sobre isso, acabei decidindo virar desenvolvedor Front-End por amar Design 🤡
