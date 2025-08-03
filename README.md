@@ -6,16 +6,16 @@
   <a href = "https://www.behance.net/_juanvictor-cmd" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
  </div>
 
- <h4 align="center">Front-End Developer Student | Principal Language Javascript</h4>
+ <h4 align="center">QA Engineer Studant | Principal Language Javascript</h4>
 
-  <h4 align="center">Linguagens: C, HTML, CSS, JavaScript, Python.</h4>
+  <h4 align="center">Languages: C, HTML, CSS, JavaScript, Python.</h4>
   <h4 align="center">I'm Currently learning about Web.</h4>
   <br>
   
 - 🔭 No que estou trabalhando atualmente: [Portfólio](https://github.com/JuanVictor-cmd/Portfolio) - Portfólio Mark 2
-- 🌱 Atualmente estou estudando: HTML e CSS
+- 🌱 Atualmente estou estudando: QA
 - 📫 Contato: juanvictoralmeida.contato@gmail.com
-- ⚡ Um fato sobre mim: Comecei na área de TI para me tornar Hacker Ético e após estudar muito sobre isso, acabei decidindo virar desenvolvedor Front-End por amar Design 🤡
+- ⚡ Um fato sobre mim: Comecei na área de TI para me tornar Hacker Ético e após estudar muito sobre isso, acabei decidindo virar desenvolvedor Front-End por amar Design 🤡 e hoje estou estudando a área de QA para assegurar a qualidade dos softwares.
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 <div>
   <a href="https://github.com/JuanVictor-cmd">
