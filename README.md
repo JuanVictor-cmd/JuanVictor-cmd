@@ -6,7 +6,7 @@
   <a href = "https://www.behance.net/_juanvictor-cmd" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
  </div>
 
- <h4 align="center">Mobile Developer Student | Principal Language Dart</h4>
+ <h4 align="center">Mobile Developer Student | Principal Language: Dart</h4>
 
   <h4 align="center">Languages: C, HTML, CSS, JavaScript, Python, Dart.</h4>
   <h4 align="center">I'm Currently learning about Mobile.</h4>
