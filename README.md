@@ -13,9 +13,8 @@
   <br>
   
 - 🔭 No que estou trabalhando atualmente: [Portfólio](https://github.com/JuanVictor-cmd/Portfolio) - Portfólio Mark 2
-- 🌱 Atualmente estou estudando: QA
+- 🌱 Atualmente estou estudando: Dart e Flutter
 - 📫 Contato: juanvictoralmeida.contato@gmail.com
-- ⚡ Um fato sobre mim: Comecei na área de TI para me tornar Hacker Ético e após estudar muito sobre isso, acabei decidindo virar desenvolvedor Front-End por amar Design 🤡 e hoje estou estudando a área de QA para assegurar a qualidade dos softwares.
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 <div>
   <a href="https://github.com/JuanVictor-cmd">
