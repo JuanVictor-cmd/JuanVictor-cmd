@@ -2,8 +2,8 @@
 <h3 align="center">Olá Mundo! Eu sou o Juan 👋</h3>
   <div align="center">
     <a href = "mailto:juanvictoralmeida.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href = "https://www.linkedin.com/in/juan-victor-cmd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "https://www.behance.net/_juanvictor-cmd" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
+   <!-- <a href = "https://www.linkedin.com/in/juan-victor-cmd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://www.behance.net/_juanvictor-cmd" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>-->
  </div>
 
  <h4 align="center">Back-End Developer Student | Principal Language: Java</h4>
