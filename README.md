@@ -6,14 +6,14 @@
   <a href = "https://www.behance.net/_juanvictor-cmd" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
  </div>
 
- <h4 align="center">Mobile Developer Student | Principal Language: Dart</h4>
+ <h4 align="center">Back-End Developer Student | Principal Language: Java</h4>
 
-  <h4 align="center">Languages: C, HTML, CSS, JavaScript, Python, Dart.</h4>
-  <h4 align="center">I'm Currently learning about Mobile.</h4>
+  <h4 align="center">Languages: C, HTML, CSS, JavaScript, Python, Java.</h4>
+  <h4 align="center">I'm Currently learning about Java.</h4>
   <br>
   
-- 🔭 No que estou trabalhando atualmente: [Portfólio](https://github.com/JuanVictor-cmd/Portfolio) - Portfólio Mark 2
-- 🌱 Atualmente estou estudando: Dart e Flutter
+- 🔭 No que estou trabalhando atualmente: <!--[Portfólio](https://github.com/JuanVictor-cmd/Portfolio) - Portfólio Mark 2-->
+- 🌱 Atualmente estou estudando: Java
 - 📫 Contato: juanvictoralmeida.contato@gmail.com
 - ✔ Sinta-se livre para fazer pull request em qualquer um dos meus projetos.
 <div>
