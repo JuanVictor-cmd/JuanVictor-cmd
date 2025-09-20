@@ -122,4 +122,6 @@ minhas habilidades em Backend.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVictor-cmd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  <img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" />
+
 </p>
