@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Juan Victor Almeida, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente, estou formado em Análise e Desenvolvimento de Sistemas e pós graduado em Gestão Financeira e Controladoria. Sou apaixonado por tecnologia e busco desenvolver 
+Me chamo Juan Victor Almeida, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente, sou formado em Análise e Desenvolvimento de Sistemas e pós graduado em Gestão Financeira. Sou apaixonado por tecnologia e busco desenvolver 
 minhas habilidades em Backend.
 
 <p align="left">
