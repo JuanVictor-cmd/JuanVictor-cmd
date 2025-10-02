@@ -102,9 +102,9 @@ minhas habilidades em Backend.
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="23px" 
+    alt="Power Bi" 
+    title="Power Bi"
+    width="22px" 
     style="padding-right: 10px;" 
     src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
 />
