@@ -46,8 +46,8 @@ minhas habilidades em Backend.
 />
 <img 
     align="left" 
-    alt="sql" 
-    title="sql"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
