@@ -102,11 +102,11 @@ minhas habilidades em Backend.
 />
 <img 
     align="left" 
-    alt="Power Bi" 
-    title="Power Bi"
+    alt="My SQL" 
+    title="My SQL"
     width="22px" 
     style="padding-right: 10px;" 
-    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
