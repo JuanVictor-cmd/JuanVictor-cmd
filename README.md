@@ -38,6 +38,14 @@ minhas habilidades em Backend.
 />
 <img 
     align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/django.svg 
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
