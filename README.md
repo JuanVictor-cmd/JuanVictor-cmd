@@ -42,7 +42,7 @@ minhas habilidades em Backend.
     title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@16.2.0/icons/django.svg" 
 />
 <img 
     align="left" 
