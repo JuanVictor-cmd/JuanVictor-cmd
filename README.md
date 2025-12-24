@@ -46,7 +46,7 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Backen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" style="padding-right: 10px;" align="left"/>
 </p>
-<br>
+<br><br>
 
 ## 🧠 Áreas de Interesse
 
