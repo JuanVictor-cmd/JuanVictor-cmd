@@ -35,8 +35,6 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Backen
   </a>
 </p>
 
----
-
 ## 🤖 Linguagens e Tecnologias
 
 <p align="left">
@@ -51,8 +49,6 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Backen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" />
 </p>
 
----
-
 ## 🧠 Áreas de Interesse
 
 - Desenvolvimento Backend
@@ -61,8 +57,6 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Backen
 - Boas práticas e Clean Code
 - Banco de Dados Relacionais
 - Versionamento de código (Git)
-
----
 
 ## 🐍 Atividade
 
