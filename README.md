@@ -37,10 +37,12 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Backen
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" style="padding-right: 10px;" align="left"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.2.0/icons/django.svg" width="35" style="padding-right: 10px;" align="left"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" style="padding-right: 10px;" align="left"/>
