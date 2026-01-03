@@ -58,7 +58,7 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Backen
 - APIs REST
 - Arquitetura de Software
 - Boas práticas e Clean Code
-- Banco de Dados Relacionais
+- Banco de Dados Relacionais e Não Relacionais
 - Versionamento de código (Git)
 
 ## 🐍 Atividade
