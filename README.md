@@ -1,9 +1,9 @@
 # 👨🏻‍💻 Juan Almeida  
-### Desenvolvedor Backend
+### Analista de Dados
 
 Me chamo **Juan Victor Almeida**, tenho 24 anos e sou natural do Rio de Janeiro.  
 Sou formado em **Análise e Desenvolvimento de Sistemas** e **pós-graduado em Gestão Financeira**.  
-Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Backend**, com ênfase em código limpo, boas práticas e aprendizado contínuo.
+Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Analytics**, com ênfase em dados limpos, boas práticas e aprendizado contínuo.
 
 ## 🌐 Contato & Redes
 
