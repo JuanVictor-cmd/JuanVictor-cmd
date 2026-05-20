@@ -56,12 +56,12 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Analyt
 
 ## 🧠 Áreas de Interesse
 
-- Desenvolvimento Backend
-- APIs REST
-- Arquitetura de Software
-- Boas práticas e Clean Code
-- Banco de Dados Relacionais e Não Relacionais
-- Versionamento de código (Git)
+- Engenharia & Análise de Dados (ETL / ELT)
+- Automação de Processos e Web Scraping
+- Modelagem de Dados e Business Intelligence (BI)
+- Desenvolvimento de Dashboards e Relatórios Gerenciais
+- Otimização de Consultas SQL e Bancos de Dados Relacionais
+- Analytics Integrado (Criação de ferramentas de dados personalizadas)
 
 ## 🐍 Atividade
 
