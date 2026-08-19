@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Analyt
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/juan-victor-cmd/" target="_blank">
+  <a href="https://www.linkedin.com/in/juanvictor-cmd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
@@ -40,16 +40,16 @@ Sou apaixonado por tecnologia e focado no desenvolvimento de soluções **Analyt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="35" style="padding-right: 10px;" align="left"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="35" style="padding-right: 10px;" align="left" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.2.0/icons/django.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="35" style="padding-right: 10px;" align="left"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" style="padding-right: 10px;" align="left"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" style="padding-right: 10px;" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" style="padding-right: 10px;" align="left"/>
 </p>
 <br><br>
